@@ -1,0 +1,19 @@
+{
+  "name": "monisha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monishagit/monisha.git"
+  },
+  "author": "dudndumol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monishagit/monisha/issues"
+  },
+  "homepage": "https://github.com/monishagit/monisha#readme"
+}
